@@ -1,0 +1,6 @@
+*.RData
+*.feather
+*.rds
+*.hash
+*/graphs
+*.html
