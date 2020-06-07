@@ -4,6 +4,8 @@
   <img src="./glad_logo.jpg" width="350" class="center">
 </p>
 
+<br/>
+
 The preliminary analysis scripts for detecting inconsistent survey responses in
 the **Genetic Links to Depression and Anxiety (GLAD)** study.
 
